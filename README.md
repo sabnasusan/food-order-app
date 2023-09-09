@@ -1,5 +1,7 @@
 # Food Order React App
 
+A food order app created in React App with context API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
